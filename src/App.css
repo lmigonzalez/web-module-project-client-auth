@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.links{
+  margin: 0 0.5rem;
+
+}
+
+.friend_list{
+  list-style: none;
+  background-color: #22577E;
+  color: #fff;
+  margin: 0.5rem 0;
+
+}
